@@ -1,0 +1,6 @@
+city
+country
+state
+provience
+town
+area
